@@ -1,6 +1,8 @@
 #include <iostream>
 
-// count function should go here
+int count(const std::string& phrase) {
+    return 0;
+}
 
 unsigned int count(const std::string& str) {
     unsigned int counter = 0;
